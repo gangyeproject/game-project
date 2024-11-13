@@ -6,7 +6,8 @@ USE：
         Your browser does not support iframes.
     </iframe>
 
-example：https://sprunkiretake.cc/game/Sprunki-Phase-9/
+example：
+[Sprunki Phase 9](https://sprunkiretake.cc/game/Sprunki-Phase-9/)
 
 Sprunki Phase 9 is one of the most captivating stages in the popular Incredibox web game, which has taken the internet by storm.
 
